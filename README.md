@@ -6,3 +6,4 @@ Day 01: Today i abandoned Windows 10, and it was not easy because that also mean
 
 Day 02: This day, it was a totally mess, i had to switch from linux to windows to get missed database files that are needed for browser configurations and setting up my cryptowallets on Linux, now all is set up and i don't have to face Windows again.
 
+Day 03: Yesterday, i didn't do much, just enjoyed hanging out on Linux, but i really missed some extensions for Visual Studio Code, i think about to customize my DE as soon i got ideas.
